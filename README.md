@@ -10,7 +10,7 @@ The solution showcases professional ETL development practices including data qua
 
 Here’s a look at the SSIS package:
 
-images/ControlFlowETL.png
+![ETL Pipeline](images/ControlFlowETL.png)
 
 ## Architecture
 
@@ -274,4 +274,5 @@ Developed by **Mr Vivian Ferguson** as part of a comprehensive ETL and data ware
 ---
 
 **Note:** This project is designed for educational and portfolio purposes to demonstrate ETL development capabilities.
+
 
