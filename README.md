@@ -6,6 +6,12 @@ This project demonstrates a complete ETL (Extract, Transform, Load) process deve
 
 The solution showcases professional ETL development practices including data quality validation, error handling, audit logging, and integration with Power BI for visualisation.
 
+## ETL Pipeline Screenshot
+
+Here’s a look at the SSIS package:
+
+images/ControlFlowETL.png
+
 ## Architecture
 
 ```
@@ -268,3 +274,4 @@ Developed by **Mr Vivian Ferguson** as part of a comprehensive ETL and data ware
 ---
 
 **Note:** This project is designed for educational and portfolio purposes to demonstrate ETL development capabilities.
+
